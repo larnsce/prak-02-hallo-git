@@ -1,0 +1,84 @@
+---
+title: "Praktikum 01 - Hallo R"
+author: "Füge deinen Namen hier hinzu"
+date: "Füge das Datum hier hinzu"
+output: github_document
+---
+
+## Lade Packages und Daten
+
+```{r lade-packages, message=FALSE}
+library(tidyverse) 
+library(datasauRus)
+```
+
+## Übungen
+
+### Übung 1
+
+Entferne diesen Text und füge deine Antwort für Übung 1 hier ein.
+
+```{r oeffne-hilfedatei}
+?datasaurus_dozen
+```
+
+### Übung 2
+
+Die Antworten für diese Übung sind unter bereits für dich angegeben. Du solltest aber den Text überarbeiten und nur das für dich relevante eingeben.  
+
+Zuerst plotten wir den Dino Datensatz
+
+```{r plot-dino, fig.height=3, fig.width=6}
+dino_data <- datasaurus_dozen %>%
+  filter(dataset == "dino")
+
+ggplot(data = dino_data, mapping = aes(x = x, y = y)) +
+  geom_point()
+```
+
+Und als nächstes berechne die Korrelation zwischen "x" und "y" in diesem Datensatz:
+
+```{r cor-dino}
+dino_data %>%
+  summarize(r = cor(x, y))
+```
+
+### Übung 3
+
+Füge den Code und die Beschreibungen nach Bedarf hinzu. Beachte, dass die R-Chunks mit `plot-star` und `cor-star` beschriftet sind, um Platz für den Code zum Plotten und Berechnen des Korrelationskoeffizienten zu schaffen.
+
+Bereinige zum Schluss den Text, indem du diese Anweisungen entfernst.
+
+Blah blah blah...
+
+```{r plot-star}
+
+```
+
+Ich bin irgendein Text, du solltest mich durch einen sinnvolleren Text ersetzen...
+
+```{r cor-star}
+
+```
+
+### Übung 4
+
+Füge den Code und die Beschreibung nach Bedarf hinzu. Beachte, dass zwei R-Blöcke gegeben sind, die aber nicht beschriftet sind.
+Verwende die Konvention von oben, um sie entsprechend zu benennen.
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+### Übung 5
+
+Füge den Code und die Beschreibung nach Bedarf hinzu. R Chunks kannst du folgendermassen hinzufügen:
+
+- Benutze den Button Chunk oben, grünes C+, und klicke auf R 
+- Nutze das Tastatur-Kürzel: `Cmd + Option + I` (Mac) oder `Ctrl + Alt + I` (Windows/Linux)
+- Mach dir die Mühe und schreib die Backticks, die geschweiften Klammern und den Buchstaben `r`
+
