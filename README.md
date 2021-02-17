@@ -1,4 +1,4 @@
-# prak-01-hallo-r
+# ha-01-hallo-git
 
 Hallo, und herzlich Willkommen zu diesem Kurs. Dies ist eine README Datei mit allgemeinen Informationen. Die Übungen selbst befinden sich der Datei "~/prak-01.Rmd".
 

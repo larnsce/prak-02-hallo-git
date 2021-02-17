@@ -1,5 +1,5 @@
 ---
-title: "Praktikum 01 - Hallo R"
+title: "Heimarbeit 01 - Hallo Git"
 author: "Füge deinen Namen hier hinzu"
 date: "Füge das Datum hier hinzu"
 output: github_document
