@@ -36,7 +36,7 @@ ggplot(data = dino_data, mapping = aes(x = x, y = y)) +
   geom_point()
 ```
 
-![](prak-01_files/figure-gfm/plot-dino-1.png)<!-- -->
+![](prak-02_files/figure-gfm/plot-dino-1.png)<!-- -->
 
 Und als nächstes berechne die Korrelation zwischen “x” und “y” in diesem
 Datensatz:
