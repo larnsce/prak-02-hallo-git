@@ -1,13 +1,12 @@
-# ha-01-hallo-git
+# README
 
-Hallo, und herzlich Willkommen zu diesem Kurs. Dies ist eine README Datei mit allgemeinen Informationen. Die Übungen selbst befinden sich der Datei "~/prak-01.Rmd".
+Die Übung in diesem Repository wurde für den Kurs ["rstatsZH - Data Science mit R"](https://statistikzh.github.io/rstatsZH/) erstellt. Diese Datei ist eine README Datei. Di Übungen befinden sich im der Datei mit der Endung ".Rmd"
 
-## Acknowledgements / Danksagung
+## Danksagung / Acknowledgements
 
-**EN:** This repo contains an exercise that was translated from material of
-[datasciencebox.org](https://datasciencebox.org/) released with [Creative Commons Attribution Share Alike 4.0 International](LICENSE.md) license.
+**DE:** Dieses Repository enthält Übungen welche aus Materialien von
+[datasciencebox.org](https://datasciencebox.org/) und [Remaster the Tidyverse](https://github.com/rstudio-education/remaster-the-tidyverse) übersetzt und reproduziert wurden. Die Materialien wurden mit der Lizenz [Creative Commons Attribution Share Alike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) veröffentlicht.
 
-**DE:** Dieses Repo enthält die Übersetzung einer Übung, welche aus Material von
-[datasciencebox.org](https://datasciencebox.org/) unter der Lizenz [Creative Commons Attribution Share Alike 4.0 International](LICENSE.md) veröffentlicht wurde.
+**EN:** This repo contains exercises that were translated and reproduced from material of [datasciencebox.org](https://datasciencebox.org/) and [Remaster the Tidyverse](https://github.com/rstudio-education/remaster-the-tidyverse) copyrighted under [Creative Commons Attribution Share Alike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) license.
 
 

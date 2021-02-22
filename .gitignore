@@ -43,3 +43,6 @@ docs/
 
 # translation temp files
 po/*~
+
+# ignore _files folder
+*_files

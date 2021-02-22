@@ -2,19 +2,19 @@
 title: "Heimarbeit 01 - Hallo Git"
 author: "Füge deinen Namen hier hinzu"
 date: "Füge das Datum hier hinzu"
-output: github_document
+output: html_document
 ---
 
-## Lade Packages und Daten
+# Lade Packages und Daten
 
 ```{r lade-packages, message=FALSE}
 library(tidyverse) 
 library(datasauRus)
 ```
 
-## Übungen
+# Übungen
 
-### Übung 1
+## Übung 1
 
 Entferne diesen Text und füge deine Antwort für Übung 1 hier ein.
 
@@ -22,7 +22,7 @@ Entferne diesen Text und füge deine Antwort für Übung 1 hier ein.
 ?datasaurus_dozen
 ```
 
-### Übung 2
+## Übung 2
 
 Die Antworten für diese Übung sind unter bereits für dich angegeben. Du solltest aber den Text überarbeiten und nur das für dich relevante eingeben.  
 
@@ -43,7 +43,7 @@ dino_data %>%
   summarize(r = cor(x, y))
 ```
 
-### Übung 3
+## Übung 3
 
 Füge den Code und die Beschreibungen nach Bedarf hinzu. Beachte, dass die R-Chunks mit `plot-star` und `cor-star` beschriftet sind, um Platz für den Code zum Plotten und Berechnen des Korrelationskoeffizienten zu schaffen.
 
@@ -61,7 +61,7 @@ Ich bin irgendein Text, du solltest mich durch einen sinnvolleren Text ersetzen.
 
 ```
 
-### Übung 4
+## Übung 4
 
 Füge den Code und die Beschreibung nach Bedarf hinzu. Beachte, dass zwei R-Blöcke gegeben sind, die aber nicht beschriftet sind.
 Verwende die Konvention von oben, um sie entsprechend zu benennen.
@@ -74,7 +74,7 @@ Verwende die Konvention von oben, um sie entsprechend zu benennen.
 
 ```
 
-### Übung 5
+## Übung 5
 
 Füge den Code und die Beschreibung nach Bedarf hinzu. R Chunks kannst du folgendermassen hinzufügen:
 
