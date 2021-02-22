@@ -1,6 +1,6 @@
 # README
 
-Die Übung in diesem Repository wurde für den Kurs ["rstatsZH - Data Science mit R"](https://statistikzh.github.io/rstatsZH/) erstellt. Diese Datei ist eine README Datei. Di Übungen befinden sich im der Datei mit der Endung ".Rmd"
+Die Übung in diesem Repository wurde für den Kurs ["rstatsZH - Data Science mit R"](https://statistikzh.github.io/rstatsZH/?utm_source=README&utm_medium=GitHub) erstellt. Diese Datei ist eine README Datei. Di Übungen befinden sich im der Datei mit der Endung ".Rmd"
 
 ## Danksagung / Acknowledgements
 
