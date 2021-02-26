@@ -1,5 +1,5 @@
 ---
-title: "Heimarbeit 01 - Hallo Git"
+title: "Hausaufgabe 01 - Hallo Git"
 author: "Füge deinen Namen hier hinzu"
 date: "Füge das Datum hier hinzu"
 output: html_document
