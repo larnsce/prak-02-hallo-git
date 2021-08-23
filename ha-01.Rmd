@@ -49,8 +49,6 @@ Füge den Code und die Beschreibungen nach Bedarf hinzu. Beachte, dass die R-Chu
 
 Bereinige zum Schluss den Text, indem du diese Anweisungen entfernst.
 
-Blah blah blah...
-
 ```{r plot-star}
 
 ```
