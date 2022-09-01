@@ -61,8 +61,7 @@ Ich bin irgendein Text, du solltest mich durch einen sinnvolleren Text ersetzen.
 
 ## Übung 4
 
-Füge den Code und die Beschreibung nach Bedarf hinzu. Beachte, dass zwei R-Blöcke gegeben sind, die aber nicht beschriftet sind.
-Verwende die Konvention von oben, um sie entsprechend zu benennen.
+Füge den Code und die Beschreibung nach Bedarf hinzu.
 
 ```{r}
 
